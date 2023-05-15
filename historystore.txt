@@ -1,0 +1,4 @@
+ls
+mkdir
+help
+ls
